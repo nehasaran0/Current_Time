@@ -1,0 +1,51 @@
+
+/*--------------------current time in react js-------------------------------------------------*/
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: rgb(190, 235, 241);
+}
+h1{
+  text-align: center;
+  color: blue;
+  padding: 50px;
+  text-transform: uppercase;
+}
+
+h4{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  height: 30px;
+  width: 200px;
+  background-color: rgb(8, 209, 216);
+  margin-left: 100px;
+  border-radius: 10px;
+}
+button{
+  margin-left: 150px ;
+  margin-top: 50px;
+  font-size: 30px;
+  font-family: sans-serif;
+  background-color: chartreuse;
+  border-radius: 10px;
+}
+div{
+  height: 400px;
+  width: 400px;
+  background-color: cornsilk;
+  margin: 40px auto;
+  
+  box-shadow: darkcyan;
+}
+
+
+
+
+
+
+
